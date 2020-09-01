@@ -1,0 +1,18 @@
+body
+{
+    background: linear-gradient(to right, red,    yellow);
+    text-align: center;
+}
+
+.head
+{
+    padding-top: 80px;
+}
+#input
+{
+    padding-top: 50px;
+}
+#css
+{
+    padding-top:    250px;
+}
